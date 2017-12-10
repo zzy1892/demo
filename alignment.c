@@ -2,6 +2,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+/*test for git commit*/
 struct test
 { 
 	char x1; // 成员x1为char型(其起始地址必须1字节对界)，其偏移地址为0 
